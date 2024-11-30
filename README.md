@@ -1,0 +1,2 @@
+# MineWiki
+Minecraft wiki pedi
